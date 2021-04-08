@@ -1,0 +1,21 @@
+ float m;
+
+int main() {
+int a = 3;
+int b = 4;
+int c;
+int d = 3;
+double f;
+  a+=b;
+  cout << "Ответ =  "<<b += c  << endl;
+// a += b
+m+=4;
+  cc += d;
+f+=6;
+  for ( int i = 0 ; i < 3 ; i++) { 
+       c += i;
+}
+c += ddd;
+
+}
+
